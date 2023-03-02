@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Modificaciones e Instalacion
+Desde el lado del cliente en Angular
+
+Se usará la libreria oficial de socket.io también por lo tanto estará en la misma versión y al parecer se implementa de manera mas sencilla.
+
+npm i socket.io-client --save
+ npm i @types/socket.io-client --save
